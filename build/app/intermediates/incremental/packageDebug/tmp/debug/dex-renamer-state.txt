@@ -1,0 +1,4 @@
+#Sat Jul 03 20:51:13 BDT 2021
+base.0=/home/forhad/AndroidStudioProjects/flutter_app_birnibash_user_mod/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
